@@ -1,6 +1,6 @@
 # PPE_scripts
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/https%3A%2F%2Fmybinder.org%2Fv2%2Fgh%2FLukasSchBal%2FPPE_scripts.git%2FHEAD/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukasSchBal/PPE_scripts.git/HEAD)
 
 This is a repository for the Product and Process Technology section in the Chemical Engineering Department at the TU Delft. Here we collect useful scripts which we develop within our research. Please follow our guidelines:
 
